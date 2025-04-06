@@ -1,4 +1,3 @@
-package task02;
 import java.util.Scanner;
 public class ParolaKontrol {
 
